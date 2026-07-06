@@ -1,0 +1,55 @@
+*{
+    font-family: Arial, sans-serif;
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    background: none;
+}
+
+header{
+    padding: 20px;
+    background: crimson;
+    color: #212121;
+}
+
+body{
+    background: #212121;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+main{
+    flex:1;
+}
+footer{
+    background: gold;
+    padding: 20px;
+}
+section{
+    background:gray;
+    margin: 20px;
+    padding: 20px;
+    width: 10vw;
+    border-radius: 20px;
+    text-align: center;
+}
+div{
+    border-style: solid;
+    border-width: 2px;
+
+}
+button{
+    padding: 20px;
+    margin:5px;
+      border-style: solid;
+    border-width: 2px;
+    background: #ffffff;
+    font-size: 1rem;
+    
+}
+button:hover{
+    border-width: 5px;
+}
+button:active{
+    background: red;
+}
