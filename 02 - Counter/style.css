@@ -26,18 +26,14 @@ footer{
     padding: 20px;
 }
 section{
-    background:gray;
+    background:white;
     margin: 20px;
     padding: 20px;
-    width: 10vw;
     border-radius: 20px;
     text-align: center;
+    width:fit-content;
 }
-div{
-    border-style: solid;
-    border-width: 2px;
 
-}
 button{
     padding: 20px;
     margin:5px;
@@ -45,11 +41,22 @@ button{
     border-width: 2px;
     background: #ffffff;
     font-size: 1rem;
+     border-radius: 10px;
     
 }
-button:hover{
-    border-width: 5px;
+#counter{
+    font-size: 3rem;
+}
+#increase:hover{
+    background: limegreen;
+}
+#decrease:hover{
+    background: red;
+}
+#reset:hover{
+    background: #dddddd;
 }
 button:active{
-    background: red;
+    background: black !important;
+    color: white;
 }
