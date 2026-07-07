@@ -28,6 +28,9 @@ footer {
     color: black;
     padding: 20px;
 }
+label{
+    font-size: 2rem;
+}
 .buttons {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
