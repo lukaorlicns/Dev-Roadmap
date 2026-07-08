@@ -9,3 +9,9 @@ This GitHub repo will include all my projects that I've created in which I've pr
 ### 01 - MyCalculator (HTML/CSS/JS)
 
 ### 02 - Counter (HTML/CSS/JS)
+
+### 03 - ToDo List (HTML/CSS/JS)
+
+### 04 - Profile Card (HTML/CSS)
+
+### 05 - Games Quiz (HTML/CSS/JS)
