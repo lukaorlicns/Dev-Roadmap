@@ -15,3 +15,5 @@ This GitHub repo will include all my projects that I've created in which I've pr
 ### 04 - Profile Card (HTML/CSS)
 
 ### 05 - Video Game Quiz (HTML/CSS/JS)
+
+### 06 - Ski Pass Portal (HTML/CSS/JS)
